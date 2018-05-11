@@ -1,1 +1,1 @@
-boop
+Docker file containing a nodejs debian stretch image with powershell preinstalled.
