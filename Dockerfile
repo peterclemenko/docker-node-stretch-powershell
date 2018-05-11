@@ -21,6 +21,6 @@ RUN sudo apt-get install -y libicu-dev
 RUN sudo apt-get install -y powershell
 
 #CMD [ "node" ]
-ENTRYPOINT ["pwsh"]
+ENTRYPOINT ["/bin/bash"]
 #CMD ["world"]
 
