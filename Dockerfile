@@ -1,5 +1,5 @@
 
-FROM node:9-stretch
+FROM node:17-stretch
 LABEL maintainer="Peter Clemenko"
 
 # Install system components
