@@ -1,5 +1,5 @@
 
-FROM node:9-slim
+FROM node:23-slim
 LABEL maintainer="Peter Clemenko"
 
 # Install system components
